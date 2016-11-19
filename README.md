@@ -10,3 +10,5 @@
 
 ### Shiny Application
 ###https://kohzhixing.shinyapps.io/shinyapplication/
+
+### ui.R and server.R file labeled as "ui.R" and "server.R" in this repository.
